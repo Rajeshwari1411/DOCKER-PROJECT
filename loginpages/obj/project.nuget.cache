@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OJrdV+reAxFHqTglzE07GGMcTCwogAEF2cLc2DLbg+8g/pCinkczjHTbWoPqnkelMMZOWyj/VGvHPRA8yVJouA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RAJESHWARI.R\\source\\repos\\loginpages\\loginpages\\loginpages.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RAJESHWARI.R\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
